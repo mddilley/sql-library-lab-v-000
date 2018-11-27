@@ -4,5 +4,5 @@ INSERT INTO subgenres (name) VALUES ("science-fiction"), ("fantasy");
 
 INSERT INTO authors (name) VALUES ("Jeff Vandermeer"), ("Madeleine L'Engle");
 
-INSERT INTO books (title, year, series_id) 
-VALUES ("Annihilation", );
+INSERT INTO books (title, year, series_id)
+VALUES ("Annihilation", 2014, 1), ("Authority", 2014, 1), ("Acceptance", 2014, 1),;
