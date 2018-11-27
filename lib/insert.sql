@@ -10,4 +10,6 @@ VALUES ("Annihilation", 2014, 1), ("Authority", 2014, 1), ("Acceptance", 2014, 1
 
 INSERT INTO characters (name, motto, species, author_id, series_id)
 VALUES ("Biologist", "Plants are cool", "Human", 1, 1), ("Psycologist", "I like hypnosis", "Human", 1, 1),
-       ("Anthropologist", "Artifacts are fun", "Human", 1, 1), ("Surveyor", "I like to survey", "Human", 1, 1);
+       ("Anthropologist", "Artifacts are fun", "Human", 1, 1), ("Surveyor", "I like to survey", "Human", 1, 1),
+       ("Meg", "I'm an outcast", "Human", 2, 2), ("Surveyor", "I like to survey", "Human", 2, 2),
+       ("Anthropologist", "Artifacts are fun", "Human", 2, 2), ("Surveyor", "I like to survey", "Human", 2, 2);
