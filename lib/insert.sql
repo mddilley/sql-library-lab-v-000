@@ -14,5 +14,6 @@ VALUES ("Biologist", "Plants are cool", "Human", 1, 1), ("Psycologist", "I like 
        ("Meg", "I'm an outcast", "Human", 2, 2), ("Charles", "I'm the baby", "Human", 2, 2),
        ("Calvin", "I <3 Meg", "Human", 2, 2), ("IT", "I have no body", "Brain", 2, 2);
 
-INSERT INTO character_books (character_id, book_id) 
-VALUES (1,1), (1,2), (1,3),(2,1), (2,2), (2,3);
+INSERT INTO character_books (character_id, book_id)
+VALUES (1,1), (1,2), (1,3), (2,1), (2,2), (2,3), (3,1), (4,1), (5,1), (5,2), (5,3), (6,1),
+       (6,2), (6,3), (7,1), (8,1);
