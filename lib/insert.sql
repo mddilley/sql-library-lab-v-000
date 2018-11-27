@@ -5,6 +5,3 @@ INSERT INTO subgenres (name) VALUES ("science-fiction");
 INSERT INTO subgenres (name) VALUES ("fantasy");
 
 INSERT INTO author (name) VALUES ("Jeff Vandermeer"), ("Madeleine L'Engle");
-
-
-
