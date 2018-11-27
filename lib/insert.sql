@@ -13,3 +13,6 @@ VALUES ("Biologist", "Plants are cool", "Human", 1, 1), ("Psycologist", "I like 
        ("Anthropologist", "Artifacts are fun", "Human", 1, 1), ("Surveyor", "I like to survey", "Human", 1, 1),
        ("Meg", "I'm an outcast", "Human", 2, 2), ("Charles", "I'm the baby", "Human", 2, 2),
        ("Calvin", "I <3 Meg", "Human", 2, 2), ("IT", "I have no body", "Brain", 2, 2);
+
+INSERT INTO character_books (character_id, book_id) 
+VALUES (1,1), (1,2), (1,3),(2,1), (2,2), (2,3);
